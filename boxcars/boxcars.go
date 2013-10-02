@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/azer/boxcars"
+	"github.com/scoward/boxcars"
 	"os"
 )
 
